@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:layout_marginHorizontal="20dp"
+    android:orientation="vertical"
+    tools:context=".ProfileActivity">
+
+    <ImageView
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:layout_gravity="center"
+        android:src="@drawable/hehe"
+        android:layout_marginBottom="40dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama    : Pratama Yukie Avanshia"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kelas     : XII"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jurusan : RPL C"
+        />
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasLogin_Yukie</string>
+
+    <style name="MainActivity" parent="Theme.AppCompat.NoActionBar"></style>
+</resources>
